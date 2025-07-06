@@ -80,13 +80,13 @@ Evaluation Metrics:
 
 ### 1. Clone the repository
 bash
+
 git clone https://github.com/Vernnit/Diabetes_Detection.git
+
 cd Diabetes_Detection
 
 
 ### 2. Set up environment
-
-Or with Conda:
 
 bash
 
